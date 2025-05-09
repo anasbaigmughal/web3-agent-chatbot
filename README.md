@@ -1,5 +1,13 @@
 # Web3 Agent Chatbot 🤖
 
+
+![AI meets Blockchain](./AI%20meets%20Blockchain.png)
+*AI meets Blockchain*
+
+---
+
+# Power of Agentic AI & Blockchain
+
 A powerful AI-powered chatbot designed to interact with Web3 and blockchain technologies. This chatbot provides a conversational interface for users to interact with blockchain networks, manage wallets, and execute smart contracts.
 
 > **Note:** This project uses the **Binance Smart Chain Testnet** for all blockchain operations. Make sure your wallet and provider URLs are configured for BSC Testnet.
